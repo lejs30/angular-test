@@ -1,0 +1,52 @@
+[
+    {
+        "category": "Phone",
+        "title": "iPhone 5",
+        "pic": "http://store.storeimages.cdn-apple.com/4572/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone5s/selection/iphone5s-selection-hero-2013?wid=300&hei=300&fmt=png-alpha&qlt=95&.v=1410265309801",
+        "description": "color: black/slate, Dimensions: 4.90x2.33x0.35, Weight 4.65, Resolution(pixels) 1136x640;326ppi",
+        "quantity": "5",
+        "price": "500",
+        "currency": "USD",
+        "checkIn": "2015-05-17"
+    },
+    {
+        "category": "Car",
+        "title": "BMW X4",
+        "pic": "https://www.cstatic-images.com/stock/765x765/55/1607872268-1425510387455.",
+        "description": "Color: blue metallic, Cylinders/valves: 4/4, Speed: 212km/h, Urban: l/100km 9.2–8.7",
+        "quantity": "3",
+        "price": "44700",
+        "currency": "EUR",
+        "checkIn": "2015-05-17"
+    },
+    {
+        "category": "Other",
+        "title": "table",
+        "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTtVf5UaoTZdmSfq5jSPacdCss8m8i4Vt--WOIgyh6rU4I5dJfNQ",
+        "description": "new, Color: black",
+        "quantity": "1",
+        "price": "730",
+        "currency": "CAD",
+        "checkIn": "2015-05-17"
+    },
+    {
+        "category": "Book",
+        "title": "СЕМЬ НАВЫКОВ ВЫСОКОЭФФЕКТИВНЫХ ЛЮДЕЙ",
+        "pic": "http://fs4.www.ex.ua/show/11778/11778.jpg?1600",
+        "description": "Стивен Р. КОВИ, бестселлер, этика характера",
+        "quantity": "7",
+        "price": "2000",
+        "currency": "RUR",
+        "checkIn": "2015-05-17"
+    },
+    {
+        "category": "Car",
+        "title": "Bentley",
+        "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTd2dRFvd3TBdyRhRdF6BnqkGaYb68clgydz1oIyiOG-wkBAqdK",
+        "description": "Color: metallic, Coupe, Engine: 4.0L V8, doors: 2, ",
+        "quantity": "1",
+        "price": "193500",
+        "currency": "USD",
+        "checkIn": "2015-05-17"
+    }
+]
